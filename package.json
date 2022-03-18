@@ -1,5 +1,5 @@
 {
-  "name": "giftcart-clone",
+  "name": "Ankit Singh ~ Giftcart-clone",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BhaveshSuthar00/GiftCart-clone.git"
+    "url": "git+https://github.com/AnkitSingh60/A-Giftcart-Clone.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BhaveshSuthar00/GiftCart-clone/issues"
+    "url": "https://github.com/AnkitSingh60/A-Giftcart-Clone/issues"
   },
-  "homepage": "https://github.com/BhaveshSuthar00/GiftCart-clone#readme",
+  "homepage": "https://github.com/AnkitSingh60/A-Giftcart-Clone#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.2",
